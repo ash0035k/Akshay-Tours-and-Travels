@@ -1,0 +1,30 @@
+#booknow{
+	  background-color:red;
+	  color:white;
+	}
+#call{
+	  background-color:green;
+	  color:white;
+	}
+#corp{
+	  background-color:white;
+	  color:black;
+	}
+#cust{
+	  background-color:lightgreen;
+	  color:black;
+	}
+
+
+#car{
+	font-size:40px;
+     }
+#head{
+	background-color:grey;
+	pacing : center;
+	}
+.header{
+	background-color:skyblue;
+	align:center;
+	color:red;
+}
